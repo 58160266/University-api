@@ -1,7 +1,6 @@
 {
   "name": "mock",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,5 +10,18 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/58160266/University-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/58160266/University-api/issues"
+  },
+  "homepage": "https://github.com/58160266/University-api#readme",
+  "description": "",
+  "devDependencies": {
+    "supertest": "^3.0.0",
+    "tape": "^4.8.0"
   }
 }

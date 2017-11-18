@@ -29,10 +29,10 @@ app.post('/students',(req,res)=>{
 //method get
 //json = javascript object
 //res = response
-app.get('/greeting',(req,res)=>{
-    //ส่วนของการทำงาน
-    res.json({message:'Hello!'})
-})
+// app.get('/greeting',(req,res)=>{
+//     //ส่วนของการทำงาน
+//     res.json({message:'Hello!'})
+// })
 
 
 
